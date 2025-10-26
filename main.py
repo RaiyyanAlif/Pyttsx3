@@ -1,5 +1,6 @@
 import pyttsx3
 
 friend = pyttsx3.init()
-friend.say("Hey you whats up guys its mr. triple r and welcome to my channel niye aslam tumader jonno aro ekta special video")
+friend.say("Assalamu alaikum ; I am Raiyyan Mahmud Alif - Department of information and communication technology - Mawlana bhashani science and technology university - Santosh , tangail - 1902 !")
 friend.runAndWait()
+
